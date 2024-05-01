@@ -1,0 +1,8 @@
+# Keywords we want to listen from the twitter
+twitter-to-kafka-service:
+  twitter-keywords:
+    - Java
+    - Microservices
+    - Spring
+    - Kafka
+    - Elasticsearch
