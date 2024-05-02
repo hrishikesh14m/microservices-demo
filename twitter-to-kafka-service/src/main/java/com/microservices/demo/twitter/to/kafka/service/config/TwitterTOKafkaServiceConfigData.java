@@ -16,4 +16,5 @@ import java.util.List;
 public class TwitterTOKafkaServiceConfigData {
 
     private List<String> twitterKeywords;
+    private String message;
 }
